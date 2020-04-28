@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/nav_course"
+        android:icon="@drawable/ic_class_black_24dp"
+        android:title="Course"/>
+    <item
+        android:id="@+id/nav_students"
+        android:icon="@drawable/ic_group_black_24dp"
+        android:title="Students"/>
+    <item
+        android:id="@+id/nav_attendence"
+        android:icon="@drawable/ic_poll_black_24dp"
+        android:title="Attendence"/>
+
+</menu>
