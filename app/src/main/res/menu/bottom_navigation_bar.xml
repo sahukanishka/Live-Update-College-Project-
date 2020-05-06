@@ -4,15 +4,15 @@
 
     <item
         android:id="@+id/nav_course"
-        android:icon="@drawable/ic_class_black_24dp"
-        android:title="Course"/>
+        android:icon="@drawable/ic_brightness_7_black_24dp"
+        android:title="Live Weather"/>
     <item
         android:id="@+id/nav_students"
         android:icon="@drawable/ic_group_black_24dp"
-        android:title="Students"/>
+        android:title="Corona Update"/>
     <item
         android:id="@+id/nav_attendence"
         android:icon="@drawable/ic_poll_black_24dp"
-        android:title="Attendence"/>
+        android:title="Latest News"/>
 
 </menu>
